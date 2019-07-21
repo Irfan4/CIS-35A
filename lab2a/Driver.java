@@ -1,7 +1,6 @@
 import java.util.Scanner; // Scanner Library
 
 /* Name - Irfan Ahmad
- * ID - 20364481
  * Course - CIS-35A
  * Description - This program will take 3 sets of input for someone's name, age, address, and phone number.
  * It will use constructors and setters to store information for each person, and at the end 
