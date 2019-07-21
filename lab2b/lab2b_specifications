@@ -1,0 +1,10 @@
+Part 2 -  Coin Toss Simulator
+Create a coin toss simulation program. The simulation program should toss coin randomly and track the count of heads or tails.
+
+We need to write a program that can perform following operations:
+
+a. Toss a coin randomly.
+
+b. Track the count of heads or tails.
+
+c. Display the results.
